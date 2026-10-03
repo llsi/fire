@@ -19,7 +19,7 @@ Clone this repo as a starter, or add it as a dependency and keep your own `lonef
 ## Quick start
 
 ```bash
-git clone https://github.com/llsi/fire.git
+git clone https://github.com/hipness/fire.git
 cd fire
 npm install
 npm run dev
@@ -32,7 +32,7 @@ Node 22+.
 ```json
 {
   "dependencies": {
-    "lonefox": "github:llsi/fire"
+    "lonefox": "github:hipness/fire"
   }
 }
 ```
