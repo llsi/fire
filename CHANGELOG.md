@@ -6,8 +6,7 @@ Format: [Keep a Changelog](https://keepachangelog.com/en/1.1.0/). Versioning: [S
 
 ### Changed
 
-- The GitHub repo is `llsi/fire`. README clone and pin URLs follow.
-  The npm package is still `lonefox`.
+- Clone and pin URLs point at `hipness/fire`. The npm package is still `lonefox`.
 - Sample post and default `site.description` no longer call this a webhome.
 - `@font-face` rules that pointed at missing files were removed. System fonts still apply.
 

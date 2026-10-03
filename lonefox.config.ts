@@ -9,7 +9,7 @@ export const site = {
   lang: 'en',
   author: 'your name',
   email: 'you@example.com',
-  github: 'https://github.com/llsi/fire',
+  github: 'https://github.com/hipness/fire',
   ogImage: '/images/share.png',
   favicon: '/favicon.svg',
   themeKey: 'lonefox-theme',
